@@ -19,9 +19,9 @@
 
 Для ручной активации/деактивации делегата можно иметь на смартфоне ссылки на скрипт в формате
 
-https://mysite.online/checkblock/witness/php?m=on
+https://mysite.online/checkblock/witness.php?m=on
 
-https://mysite.online/checkblock/witness/php?m=off
+https://mysite.online/checkblock/witness.php?m=off
 
 После ручной деактивации устанавливается флаг, не позволяющий скрипту автоматически запустить подпись блоков до его удаления (или до ручной активации).
 
